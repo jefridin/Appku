@@ -1,0 +1,16 @@
+{
+    "Ads": [
+        {
+            "on_off_ads": "on",
+            "banner_type": "facebook",
+            "inters_type": "facebook",
+            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+            "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+            "applovin_banner": "ec99e036ebbca2ed",
+            "applovin_inters": "d46ddd9328f5a4e5",
+            "facebook_banner": "IMG_16_9_APP_INSTALL#3238794289730570_3243526739257325",
+            "facebook_inters": "IMG_16_9_APP_INSTALL#3238794289730570_3243526849257314",
+            "interval_inters": 5
+        }
+    ]
+}
