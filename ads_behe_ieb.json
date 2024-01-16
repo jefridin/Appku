@@ -3,12 +3,12 @@
         {
             "on_off_ads": "on",
             "banner_type": "facebook",
-            "inters_type": "facebook",
+            "inters_type": "admob",
             "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-            "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+            "admob_inters": "ca-app-pub-6350597999414841/4824531784",
             "facebook_banner": "6552867021459675_6552871281459249",
             "facebook_inters": "6552867021459675_6552871558125888",
-            "interval_inters": 5
+            "interval_inters": 6
         }
     ]
 }
